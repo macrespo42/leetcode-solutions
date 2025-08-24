@@ -10,3 +10,4 @@ A collection of solved leetcode problems in javascript btw
 - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [valid-palindrome](https://leetcode.com/problems/valid-palindrome)
 - [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
+- [valid-anagram](https://leetcode.com/problems/valid-anagram/)
