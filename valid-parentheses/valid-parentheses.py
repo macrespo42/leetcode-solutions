@@ -6,6 +6,8 @@ def is_valid(s: str):
         if (elt in open):
             stack.append(elt)
         elif elt in closed:
+            if len(stack) == 0:
+                return False
             popped = stack.pop()
             if (closed.index(elt) != open.index(popped)):
                 return False
