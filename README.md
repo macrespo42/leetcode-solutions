@@ -1,6 +1,6 @@
-# Leetcode solutions
+# LeetCode solutions
 
-A collection of solved leetcode problems in javascript btw
+A collection of solved LeetCode problems in Python
 
 ## Problem solved:
 
@@ -11,3 +11,4 @@ A collection of solved leetcode problems in javascript btw
 - [valid-palindrome](https://leetcode.com/problems/valid-palindrome)
 - [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
 - [valid-anagram](https://leetcode.com/problems/valid-anagram/)
+- [contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
