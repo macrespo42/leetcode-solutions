@@ -15,4 +15,4 @@ function isPalindrome(s) {
     right--;
   }
   return true;
-};
+}
